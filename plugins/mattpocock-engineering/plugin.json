@@ -1,0 +1,11 @@
+{
+  "name": "mattpocock-engineering",
+  "displayName": "Matt Pocock Engineering Skills",
+  "description": "Matt Pocock's engineering skills (github.com/mattpocock/skills, skills/engineering): grilling with docs, spec and ticket flows, TDD, code review, bug diagnosis, domain modeling, codebase design and more.",
+  "version": "1.3.1",
+  "suggestedPrompts": [
+    "Diagnose this flaky test with a disciplined red-green feedback loop",
+    "Build this feature test-first, one vertical slice at a time",
+    "Review my diff since main against coding standards and the spec"
+  ]
+}
